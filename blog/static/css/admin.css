@@ -1,0 +1,14 @@
+#header,
+.module caption {
+    background: #446600;
+}
+
+.breadcrumbs,
+.current-model {
+    background-color: #243600;
+}
+
+a:link,
+a:visited {
+    color: #243600;
+}
